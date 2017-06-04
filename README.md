@@ -11,3 +11,5 @@ playing around with generative art. Part 1: splines
 ## noise type: sin2
 ![circle noise example](https://raw.githubusercontent.com/sapiezynski/generative-art-spline/master/example_output/sin2_1496522960.png)
 
+## img type: Joy division
+![joy division example](https://raw.githubusercontent.com/sapiezynski/generative-art-spline/master/example_output/unknown_pleasures_1496620126.png)
